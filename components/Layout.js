@@ -79,7 +79,7 @@ function Layout({ children }) {
             <div className="flex flex-col sm:flex-row">
               <Link href="/">
                 <a className="mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0">
-                  Home
+                  home3 s
                 </a>
               </Link>
               <Link href="/products">
